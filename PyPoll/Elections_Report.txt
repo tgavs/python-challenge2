@@ -1,0 +1,14 @@
+-----------------Electoral Results------------------------------
+
+Total Voters: 3,521,001
+
+------------------Votes by Candidate----------------------------
+
+Candidate:Khan, votes: 63.00% (2,218,231)
+Candidate:Correy, votes: 20.00% (704,200)
+Candidate:Li, votes: 14.00% (492,940)
+Candidate:O'Tooley, votes: 3.00% (105,630)
+
+---------------------Final result--------------------------------
+Winner:Khan
+
